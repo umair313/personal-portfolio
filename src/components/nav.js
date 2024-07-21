@@ -206,7 +206,11 @@ const Nav = ({ isHome }) => {
   );
 
   const ResumeLink = (
-    <a className="resume-button" href="https://drive.google.com/file/d/1XlIqP29wNuign84Js-jddYCavRyQUGwt/view" target="_blank" rel="noopener noreferrer">
+    <a
+      className="resume-button"
+      href="/umair_mehmood_resume.pdf"
+      target="_blank"
+      rel="noopener noreferrer">
       Resume
     </a>
   );
