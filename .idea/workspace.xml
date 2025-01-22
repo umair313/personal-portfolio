@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5798becc-8fe0-4eb3-8344-5d944e395939" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/content/jobs/Apple/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/jobs/Cogent Labs/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/jobs/Mullen/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/jobs/Scout/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/jobs/Starry/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/jobs/Upstatement/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/icons/loader.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/icons/loader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/icons/logo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/icons/logo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/nav.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/sections/about.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/about.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/sections/hero.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/hero.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/favicons/favicon-16x16.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/favicons/favicon-16x16.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/favicons/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/favicons/favicon-32x32.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/favicons/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/favicons/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/me.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/_me.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,8 +47,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "539cef0b",
-    "last_opened_file_path": "/naruto/personal-portfolio/static",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/naruto/priceoyeClone",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -105,6 +88,12 @@
       <option name="presentableId" value="Default" />
       <updated>1721468058246</updated>
       <workItem from="1721468060420" duration="12227000" />
+      <workItem from="1721670524678" duration="761000" />
+      <workItem from="1721677644552" duration="615000" />
+      <workItem from="1721839997008" duration="6204000" />
+      <workItem from="1721934122381" duration="10000" />
+      <workItem from="1721943726370" duration="77000" />
+      <workItem from="1722455871640" duration="507000" />
     </task>
     <servers />
   </component>
